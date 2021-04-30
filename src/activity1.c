@@ -1,7 +1,7 @@
 /**
  * @file activity1.c
  * @author Annappa M (annappa211@gmail.com)
- * @brief 
+ * @brief INITIALISE PORTS
  * @version 0.1
  * @date 2021-04-30
  * 
