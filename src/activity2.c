@@ -1,3 +1,13 @@
+/**
+ * @file activity2.c
+ * @author Annappa M (annappa211@gmail.com)
+ * @brief Prog to Fetch the generated ADC values
+ * @version 0.1
+ * @date 2021-04-30
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <avr/io.h>
 #include "activity2.h"
 
