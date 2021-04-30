@@ -1,6 +1,6 @@
 # Embedded C Programming 
 
-#### CI and Code Quality
+## CI and Code Quality
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
